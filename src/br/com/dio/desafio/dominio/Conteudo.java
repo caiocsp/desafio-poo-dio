@@ -1,6 +1,5 @@
 package br.com.dio.desafio.dominio;
 
-import javax.script.AbstractScriptEngine;
 
 public abstract class Conteudo {
 
